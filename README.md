@@ -1,3 +1,4 @@
+ About Me :
 - 👋 Hi, I’m dimitris-filippatos, a front end software engineer!
 - 👀 I’m interested in writting clean code and love to learn!
 - 🌱 I’m currently learning programming languages in order to create user-friendly web pages.
